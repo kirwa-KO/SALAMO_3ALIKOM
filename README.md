@@ -1,4 +1,4 @@
-Thala tester made by Kirwa for 1337 students
+Thala tester made by Kirwa for 1337 students especially for exam rank 02
 
 1-> clone the rep
 
